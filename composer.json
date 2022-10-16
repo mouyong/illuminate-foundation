@@ -31,7 +31,7 @@
         "source": "https://github.com/mouyong/illuminate-foundation"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Illuminate\\Foundation\\": ""
         }
     },
