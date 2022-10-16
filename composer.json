@@ -43,12 +43,6 @@
     "target-dir": "Illuminate/Foundation",
     "require": {
         "php": "^8",
-        "symfony/browser-kit": "dev-master",
-        "symfony/css-selector": "dev-master",
-        "symfony/dom-crawler": "dev-master",
-        "symfony/http-kernel": "dev-master",
-        "symfony/process": "dev-master",
-        "symfony/translation": "dev-master",
         "illuminate/auth": "dev-master",
         "illuminate/cache": "dev-master",
         "illuminate/config": "dev-master",
